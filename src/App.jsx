@@ -19,8 +19,10 @@ function App() {
       <Services />
       <Hours />
       <Prices />
-      <Contact />
-      <Footer />
+      <div className='w-full flex-col bg-dark pt-20'>
+        <Contact />
+        <Footer />
+      </div>
     </>
   )
 }
