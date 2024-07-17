@@ -7,8 +7,8 @@ const Prices = () => {
             <p className="font-medium text-center">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit.
             </p>
-            <div className="flex justify-between md:w-3/5 w-4/5 mt-8 md:flex-row flex-col">
-                <div className="mb-4 md:w-5/12 w-full">
+            <div className="flex justify-between md:w-3/5 w-4/5 mt-8 lg:flex-row flex-col">
+                <div className="mb-4 lg:w-5/12 w-full">
                     <h3 className="text-white-100 font-bold text-lg bg-black inline-block py-1 px-2 uppercase mb-2">Hair cut</h3>
                     <div className="mb-2 pt-4">
                         <div className="flex justify-between">
@@ -43,7 +43,7 @@ const Prices = () => {
                         </p>
                     </div>
                 </div>
-                <div className="md:w-5/12 w-full">
+                <div className="lg:w-5/12 w-full">
                     <h3 className="text-white-100 font-bold text-lg bg-black inline-block py-1 px-2 uppercase mb-2">Shave</h3>
                     <div className="mb-2 pt-4">
                         <div className="flex justify-between">

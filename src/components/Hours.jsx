@@ -70,11 +70,11 @@ const Hours = () => {
             </div>
           </div>
 
-          <div className="flex justify-center bg-dark text-white-200 w-3/5 text-2xl font-bold py-6">
-            <h2 className="ms-4 bold-text-h">
+          <div className="flex justify-center bg-dark gap-4 text-white-200 lg:w-4/6 w-full md:text-2xl text-xl font-bold py-6">
+            <h2 className="">
               RESERVATION? CALL US
             </h2>
-            <h2 className="ps-5">
+            <h2 className="">
               <a href="tel:+916209220442" className="phone">+1 6209220442</a>
             </h2>
           </div>

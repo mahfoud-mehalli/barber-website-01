@@ -11,7 +11,7 @@ const Services = () => {
       <section
         className="flex justify-center items-center flex-col py-20"
       >
-        <div className="w-4/6 flex items-center flex-col">
+        <div className="lg:w-4/6 w-5/6 flex items-center flex-col">
           <h3 className="text-4xl text-gold font-semibold font-RobotoCondensed">
             OUR SERVICES
           </h3>

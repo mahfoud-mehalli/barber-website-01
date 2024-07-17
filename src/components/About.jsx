@@ -6,12 +6,12 @@ const About = () => {
   return (
     <div id="about">
       <section className="flex items-center justify-center w-full my-20">
-          <div className="flex items-center justify-center md:flex-row flex-col gap-20">
+          <div className="flex items-center justify-center lg:flex-row flex-col gap-20">
             <div className="flex md:items-center items-start md:flex-row flex-col">
               <img src={others1Img} alt="" className="rounded m-3" />
               <img src={others2Img} alt="" className="rounded m-3 h-1/2" />
             </div>
-            <div className="md:w-2/5 w-4/5">
+            <div className="lg:w-2/5 w-4/6">
               <h3 className="text-4xl text-gold font-semibold font-RobotoCondensed">ABOUT US</h3>
               <p className="font-medium mt-3">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
