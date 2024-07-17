@@ -12,7 +12,7 @@ const Contact = () => {
           <div className="flex flex-col items-start lg:w-1/2 w-full gap-2">
             <h3 className="text-4xl text-gold font-semibold font-RobotoCondensed">Contact us</h3>
             <div className="flex flex-col text-white-100 text-lg font-medium gap-2">
-              <a href="mailto:mahfoudmehalli12345@example.com">mahfoudmehalli12345@example.com</a>
+              <a href="mailto:mahfoudmehalli12345@gmail.com">mahfoudmehalli12345@gamil.com</a>
               <a href="tel:+213540254092">+213 540-254-492</a>
             </div>
             <div className="flex flex-col w-full gap-4">

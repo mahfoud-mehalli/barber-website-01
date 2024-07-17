@@ -4,7 +4,7 @@ const Hours = () => {
   return (
     <div id="hours">
       <section className="flex justify-center items-center flex-col py-20">
-        <div className="w-4/6 flex items-center flex-col">
+        <div className="lg:w-4/6 w-5/6 flex items-center flex-col">
           <h3 className="text-4xl text-gold font-semibold font-RobotoCondensed">
             WORKING HOURS
           </h3>
@@ -70,7 +70,7 @@ const Hours = () => {
             </div>
           </div>
 
-          <div className="flex justify-center bg-dark gap-4 text-white-200 lg:w-4/6 w-full md:text-2xl text-xl font-bold py-6">
+          <div className="flex justify-center md:flex-row flex-col bg-dark md:gap-4 gap-2 text-center text-white-200 md:w-5/6 w-full md:text-2xl text-xl font-bold py-6">
             <h2 className="">
               RESERVATION? CALL US
             </h2>
